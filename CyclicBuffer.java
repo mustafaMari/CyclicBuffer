@@ -1,4 +1,3 @@
-package Class3task2;
 
 public class CyclicBuffer<E> {
 	private E [] array ; 
